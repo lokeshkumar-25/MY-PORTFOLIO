@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body,
+html,
+#root {
+ 
+  margin: 0;
+  padding: 0;
+ background: #ffffff;
+   
+}
+
+
+.cards{
+  background-color: #1A1A1A;
+}
+
+.hire-me{
+  background-color: #292929;
+}
+.hero{
+  color:rgb(197, 197, 197);
+
+}
+
